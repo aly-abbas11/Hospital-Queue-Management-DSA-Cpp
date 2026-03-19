@@ -47,35 +47,3 @@ Ali Abbas Shah
 [GitHub](https://github.com/aly-abbas11)
 ```
 
----
-
-## LinkedIn Project Details:
-
-**Project Name:**
-```
-Hospital Queue Management System — DSA C++ Project
-```
-
-**Description:**
-```
-A third semester DSA project built in C++ implementing a hospital 
-queue management system using linked lists and priority queues. 
-Manages patients across Emergency and OPD departments with priority 
-ordering based on patient type and arrival time demonstrating real 
-world application of core data structures.
-```
-
-**Skills to tag:**
-```
-C++
-Data Structures
-Algorithms
-Linked Lists
-Object Oriented Programming
-```
-
----
-
-Now create the repository on GitHub, name it exactly:
-```
-Hospital-Queue-Management-DSA-Cpp
